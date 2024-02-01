@@ -1,0 +1,42 @@
+html *{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:beige;
+}
+
+.recipe-list{
+    font-weight:400;
+}
+
+/* title */
+h1{
+    text-align: center;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+/*links*/
+a{
+    color:mediumvioletred;
+}
+
+a:active{
+    color:salmon;
+}
+
+a:visited{
+    color:lightsalmon;
+}
+
+a:hover{
+    color:lightcoral;
+}
+
+/* images */
+img{
+    width:50vw;
+    height:auto;
+}
+
+div > img{
+    text-align: center;
+}
