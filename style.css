@@ -7,11 +7,22 @@ html *{
     font-weight:400;
 }
 
+.recipe{
+    display: block;
+    padding: 1vh;
+    margin: 1vh;
+    background-color:antiquewhite;
+}
+
 /* title */
 h1{
     text-align: center;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
+    background-color:lightgoldenrodyellow;
+    margin: auto 15vw;
+}
+
+.chinese{
+    font-weight:500;
 }
 
 /*links*/
